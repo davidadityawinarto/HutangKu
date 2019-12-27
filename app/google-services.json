@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "444906762814",
+    "firebase_url": "https://hutangku-973c4.firebaseio.com",
+    "project_id": "hutangku-973c4",
+    "storage_bucket": "hutangku-973c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444906762814:android:a03b7bc50b3f8684b3d76f",
+        "android_client_info": {
+          "package_name": "com.example.hutangku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444906762814-rdc78dhktag2jurrhffdq98ol1gurpos.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hutangku",
+            "certificate_hash": "5a6aaa6f15bceca92207d208a56e0540128bed1a"
+          }
+        },
+        {
+          "client_id": "444906762814-ep1325lbnn2og41e37erhnvu6rld58bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8SidaQs6TXz3PJtFzAG6eVsq9UnIGCBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444906762814-ep1325lbnn2og41e37erhnvu6rld58bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
