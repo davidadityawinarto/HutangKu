@@ -17,7 +17,7 @@
             android:id="@+id/nama"
             android:layout_marginTop="16dp"
             android:textSize="22sp"
-            android:textColor="#000C5D"
+            android:textColor="#000000"
             android:text="David Aditya W"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" />

@@ -55,7 +55,7 @@
             <TextView
                 android:id="@+id/addname"
                 android:textSize="18sp"
-                android:textColor="@color/colorPrimaryDark"
+                android:textColor="#000000"
                 android:text="Add Name"
                 android:layout_marginBottom="10dp"
                 android:layout_width="match_parent"
@@ -67,7 +67,7 @@
                 android:background="@drawable/bginputtask"
                 android:paddingLeft="12dp"
                 android:textColorHint="#B5B5B5"
-                android:textColor="@color/colorPrimaryDark"
+                android:textColor="#000000"
                 android:hint="What is his/her name?"
                 android:layout_width="match_parent"
                 android:layout_height="55dp" />
@@ -85,7 +85,7 @@
             <TextView
                 android:id="@+id/addamount"
                 android:textSize="18sp"
-                android:textColor="@color/colorPrimaryDark"
+                android:textColor="#000000"
                 android:text="Add Amount"
                 android:layout_marginBottom="10dp"
                 android:layout_width="match_parent"
@@ -97,7 +97,7 @@
                 android:background="@drawable/bginputtask"
                 android:paddingLeft="12dp"
                 android:textColorHint="#B5B5B5"
-                android:textColor="@color/colorPrimaryDark"
+                android:textColor="#000000"
                 android:hint="How many?"
                 android:layout_width="match_parent"
                 android:layout_height="55dp" />
@@ -115,7 +115,7 @@
             <TextView
                 android:id="@+id/adddesc"
                 android:textSize="18sp"
-                android:textColor="@color/colorPrimaryDark"
+                android:textColor="#000000"
                 android:text="Description"
                 android:layout_marginBottom="10dp"
                 android:layout_width="match_parent"
@@ -128,7 +128,7 @@
                 android:paddingLeft="12dp"
                 android:textColorHint="#B5B5B5"
                 android:maxLength="25"
-                android:textColor="@color/colorPrimaryDark"
+                android:textColor="#000000"
                 android:hint="How to?"
                 android:layout_width="match_parent"
                 android:layout_height="55dp" />
@@ -146,7 +146,7 @@
             <TextView
                 android:id="@+id/adddate"
                 android:textSize="18sp"
-                android:textColor="@color/colorPrimaryDark"
+                android:textColor="#000000"
                 android:text="Timeline"
                 android:layout_marginBottom="10dp"
                 android:layout_width="match_parent"
@@ -158,7 +158,7 @@
                 android:background="@drawable/bginputtask"
                 android:paddingLeft="12dp"
                 android:textColorHint="#B5B5B5"
-                android:textColor="@color/colorPrimaryDark"
+                android:textColor="#000000"
                 android:hint="How will?"
                 android:layout_width="match_parent"
                 android:layout_height="55dp" />
